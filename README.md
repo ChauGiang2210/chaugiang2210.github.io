@@ -18,7 +18,6 @@
 - Ngôn ngữ lập trình: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## *Học vấn*
-<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" />
 
 *Những ngôi trường - nơi đong đầy ấm áp, yêu thương*
 - Trường THCS:    **Trường THCS Thành phố Bến Tre**
@@ -26,6 +25,8 @@
 - Trường đại học: **Trường Đại học Công nghệ thông tin - Đại học Quốc gia TP.HCM**
 
 ## *Lý tưởng sống*
+<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" />
+
 #### *Dẫu cho sinh mệnh như hạt cát*
 #### *Vẫn mong năm tháng tựa bài ca...* 
 - Cuộc đời ngắn ngủi lắm, nếu chúng ta không làm gì cả, thì chúng ta chỉ đơn giản là đang tồn tại, không thể gọi là sống được. Người đang sống, là người có hoài bão, có ước mơ, yêu cuộc sống và biết tận hưởng cuộc sống.
