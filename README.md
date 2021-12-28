@@ -15,6 +15,8 @@
 
 - Địa chỉ: **Bến Tre, Việt Nam**
 
+- Ngôn ngữ lập trình: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ## *Học vấn*
 *Những ngôi trường - nơi đong đầy ấm áp, yêu thương*
 - Trường THCS:    **Trường THCS Thành phố Bến Tre**
@@ -31,3 +33,7 @@
 - **Du lịch:** Đi đây đi đó, tìm thấy những ngóc ngách đáng iu mà bản thân không ngờ đến
 - **Ăn uống:** Live to eat, not eat to live
 - **Bạn bè:** Không có điều gì trân quý hơn những người bạn thật sự
+
+## *Thông Tin Liên Lạc*
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012373687202)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21520213@gm.uit.edu.vn)
