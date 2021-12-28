@@ -3,7 +3,7 @@
 ### *ChouYang in your area*
 
 ## *About Me*
-<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/267607300_1335402606882183_2862420650277691357_n.jpg?_nc_cat=103&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=OQ_Limvl7GsAX8Iz77a&tn=RUrGuCRV1pEg2eZL&_nc_ht=scontent.fsgn4-1.fna&oh=00_AT9AIN7dTgiNURjCsNAOVQGRMDXsFVUG9vemJFBDyTwl9A&oe=61D0014C" />
+<img align="right" alt="GIF" height="250px" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/269992654_1344341689321608_2087261231302269431_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=0Qi1cmILe6sAX-g4CgM&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9MRg0Fopg5-RmRDYK8d22UsJdFtD5zvPj93YzlFS9XaQ&oe=61D02200" />
 
 - Họ tên: **Lê Châu Giang**
 
@@ -18,14 +18,16 @@
 - Ngôn ngữ lập trình: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## *Học vấn*
+<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" />
+
 *Những ngôi trường - nơi đong đầy ấm áp, yêu thương*
 - Trường THCS:    **Trường THCS Thành phố Bến Tre**
 - Trường THPT:    **Trường THPT Chuyên Bến Tre**
 - Trường đại học: **Trường Đại học Công nghệ thông tin - Đại học Quốc gia TP.HCM**
 
 ## *Lý tưởng sống*
-###### *Dẫu cho sinh mệnh như hạt cát*
-###### *Vẫn mong năm tháng tựa bài ca...* 
+#### *Dẫu cho sinh mệnh như hạt cát*
+#### *Vẫn mong năm tháng tựa bài ca...* 
 - Cuộc đời ngắn ngủi lắm, nếu chúng ta không làm gì cả, thì chúng ta chỉ đơn giản là đang tồn tại, không thể gọi là sống được. Người đang sống, là người có hoài bão, có ước mơ, yêu cuộc sống và biết tận hưởng cuộc sống.
 
 ## *Một chút thú vị trong cuộc sống mình*
