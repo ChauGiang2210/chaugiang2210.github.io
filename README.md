@@ -22,7 +22,9 @@
 
 *My school - My Love*
 - Primary school: **PhuHung Primary school**
+
 - Secondary school:    **BenTre city Secondary school**
+
 - High school:    **BenTre high school for gifted student**
   - Class: **Maths-Informatics 18-21**
 - University: **University of Information Technology - VNU**
