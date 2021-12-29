@@ -18,7 +18,7 @@
 - Programming language: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## *Education*
-<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.6435-9/145349790_1123071818115264_3647169281366938897_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=DwHGL8x0IoUAX8b-zqo&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT8YQfqUEDD6i65QR6_QJ-PVbVxIKwjMW1dJoNJvM7w_nQ&oe=61F2930C" />
+<img align="center" alt="GIF" height="200px" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.6435-9/145349790_1123071818115264_3647169281366938897_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=DwHGL8x0IoUAX8b-zqo&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT8YQfqUEDD6i65QR6_QJ-PVbVxIKwjMW1dJoNJvM7w_nQ&oe=61F2930C" />
 
 *My school - My Love*
 - Secondary school:    **BenTre city Secondary school**
@@ -27,7 +27,7 @@
 
 ## *Ideal of life*
 #### *You only live once, but if you do it right, once is enough. ― Mae West*
-<img align="right" alt="GIF" height="200px" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/129722206_1079772049111908_6505283186023192443_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=xsSD5UakR5EAX9DxgzI&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8vv871XF3Lmf9Fiekq8B2vvP9PJLTIiIAEYsK-2DglnQ&oe=61F32CA9" />
+<img align="right" alt="GIF" height="250px" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.6435-9/129722206_1079772049111908_6505283186023192443_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=xsSD5UakR5EAX9DxgzI&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT8vv871XF3Lmf9Fiekq8B2vvP9PJLTIiIAEYsK-2DglnQ&oe=61F32CA9" />
 
 - Our life is short. If we don't do anything, we just exist. People who live their lives are those who have a dream, an ambition, love their lives, and enjoy them.
 
