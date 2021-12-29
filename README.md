@@ -26,9 +26,7 @@
 
 ## *Ideal of life*
 #### *You only live once, but if you do it right, once is enough. ― Mae West*
-<img align="right" alt="GIF" height="175px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" />
-
-<img align="right" alt="GIF" height="175px" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.6435-9/145349790_1123071818115264_3647169281366938897_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=DwHGL8x0IoUAX8b-zqo&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT8YQfqUEDD6i65QR6_QJ-PVbVxIKwjMW1dJoNJvM7w_nQ&oe=61F2930C" />
+<img align="right" alt="GIF" height="150px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" /> <img align="right" alt="GIF" height="150px" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.6435-9/145349790_1123071818115264_3647169281366938897_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_ohc=DwHGL8x0IoUAX8b-zqo&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT8YQfqUEDD6i65QR6_QJ-PVbVxIKwjMW1dJoNJvM7w_nQ&oe=61F2930C" />
 
 - Our life is short. If we don't do anything, we just exist. People who live their lives are those who have a dream, an ambition, love their lives, and enjoy them.
 
