@@ -25,9 +25,10 @@
 - University: **University of Information Technology - VNU**
 
 ## *Ideal of life*
+#### *You only live once, but if you do it right, once is enough. ― Mae West*
 <img align="right" alt="GIF" height="200px" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t1.6435-9/187524909_1192640641158381_2931469334434657618_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=aP69JXb4IYAAX_YrhjW&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT-bpz_iyckCPLawUMLh0BbWtq3noHvGwyCshU7bwJHSTg&oe=61EFCEB9" />
 
-#### *You only live once, but if you do it right, once is enough. ― Mae West*
+
 - Our life is short. If we don't do anything, we just exist. People who live their lives are those who have a dream, an ambition, love their lives, and enjoy them.
 
 - Our time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out our own inner voice. And most important, have the courage to follow your heart and intuition.
