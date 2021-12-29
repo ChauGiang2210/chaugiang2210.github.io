@@ -39,7 +39,7 @@
 
 ## *Something interesting about my life*
 - **Draw:** Drawing makes me feel comfortable and relaxed after a tiring day.
-- **Music:** Music expresses that which can not be said and on which it is impossible to be silent.
+- **Music:** Music is what feelings sound like.
 - **Travel:** Go somewhere and find something which unexpected.
 - **Enjoy the food:** Live to eat, not eat to live.
 - **Friends:** There is nothing on this earth more to be prized than true friendship.
