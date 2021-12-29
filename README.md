@@ -39,6 +39,7 @@
 
 ## *Something interesting about my life*
 - **Draw:** Drawing makes me feel comfortable and relaxed after a tiring day.
+- **Music:** Music expresses that which can not be said and on which it is impossible to be silent.
 - **Travel:** Go somewhere and find something which unexpected.
 - **Enjoy the food:** Live to eat, not eat to live.
 - **Friends:** There is nothing on this earth more to be prized than true friendship.
@@ -46,3 +47,4 @@
 ## *Communication*
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012373687202)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21520213@gm.uit.edu.vn)
+[![Pinterest](https://img.shields.io/badge/<handle>-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/chaugiang2210/_saved/)
