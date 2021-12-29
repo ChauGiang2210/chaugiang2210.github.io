@@ -2,8 +2,9 @@
 # **MY PROFILE**
 ### *ChouYang in your area*
 
+<img align="right" alt="GIF" height="280px" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/269992654_1344341689321608_2087261231302269431_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=0Qi1cmILe6sAX-g4CgM&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9MRg0Fopg5-RmRDYK8d22UsJdFtD5zvPj93YzlFS9XaQ&oe=61D02200" />
+
 ## *About Me*
-<img align="right" alt="GIF" height="250px" src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t39.30808-6/269992654_1344341689321608_2087261231302269431_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=0Qi1cmILe6sAX-g4CgM&_nc_ht=scontent.fsgn3-1.fna&oh=00_AT9MRg0Fopg5-RmRDYK8d22UsJdFtD5zvPj93YzlFS9XaQ&oe=61D02200" />
 
 - Full Name: **Le Chau Giang**
 
